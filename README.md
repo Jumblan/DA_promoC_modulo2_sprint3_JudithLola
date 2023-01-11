@@ -2,7 +2,7 @@
 
 
 TEMARIO EDA 
-
+-----------
 El análisis exploratorio de datos (EDA) es utilizado por los analistas de datos para analizar e investigar conjuntos de datos 
 y resumir sus principales características, empleando a menudo métodos de visualización de datos.
 
@@ -14,8 +14,9 @@ y resumir sus principales características, empleando a menudo métodos de visua
 
 
 
-TEMARIO LIMPIEZA
 
+TEMARIO LIMPIEZA
+----------------
 Limpieza I: Eliminacion de duplicados, renombrar y/o eliminar columnas redundantes, cambiar el tipo de datos de las columnas.
 
 Limpieza II: Strings: Creacion de intervalos, porcentajes, y ratios con apply, map y applymap
@@ -28,8 +29,9 @@ Limpieza V: Analizar y reconocer los diferentes metodos de la libreia Sklearn pa
 
 
 
-ETL
 
+ETL
+----
 Extract, Load and Transform para el procesado de datos 
 
 ETL I: Extracción- API's
