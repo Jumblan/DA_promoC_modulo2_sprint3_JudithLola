@@ -1,4 +1,4 @@
-# DA_promoC_modulo2_sprint2_JudithyLola
+# DA_promoc_modulo2_sprint2_JudithyLola
 
 
 TEMARIO EDA 
