@@ -13,6 +13,7 @@ y resumir sus principales características, empleando a menudo métodos de visua
 - EDA III: Analisis exploratorio graficos mediante la visualizacion 
 
 
+
 TEMARIO LIMPIEZA
 
 Limpieza I: Eliminacion de duplicados, renombrar y/o eliminar columnas redundantes, cambiar el tipo de datos de las columnas.
@@ -26,7 +27,9 @@ Limpieza IV:  Aplicamos los principales prodcedimientos para imputar los valores
 Limpieza V: Analizar y reconocer los diferentes metodos de la libreia Sklearn para tratar los valores nulos.
 
 
+
 ETL
+
 Extract, Load and Transform para el procesado de datos 
 
 ETL I: Extracción- API's
