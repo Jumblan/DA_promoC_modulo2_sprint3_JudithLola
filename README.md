@@ -1,6 +1,8 @@
 # DA_promoc_modulo2_sprint2_JudithyLola
 
 
+
+
 TEMARIO EDA 
 -----------
 El análisis exploratorio de datos (EDA) es utilizado por los analistas de datos para analizar e investigar conjuntos de datos 
@@ -11,6 +13,9 @@ y resumir sus principales características, empleando a menudo métodos de visua
  - EDA II: Identificacion de Valores Nulos o valores perdidos y Outliers valores extremos
 
  - EDA III: Analisis exploratorio graficos mediante la visualizacion 
+
+
+
 
 
 
@@ -27,6 +32,8 @@ TEMARIO LIMPIEZA
  - Limpieza IV:  Aplicamos los principales prodcedimientos para imputar los valores nulos: sustitucion por la media o por la constante.
 
  - Limpieza V: Analizar y reconocer los diferentes metodos de la libreia Sklearn para tratar los valores nulos.
+
+
 
 
 
