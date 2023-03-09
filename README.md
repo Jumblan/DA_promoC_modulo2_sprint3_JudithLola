@@ -9,9 +9,10 @@ Pair programming realized by: [Judith M.Blanco](https://www.linkedin.com/in/judi
 
 ***Use of libraries fot the Exploratory Data Anlayisis (EDA) and Extract, Transform, Load (ETL)***
 
----
 
+---
 **Libraries** 
+---
 
     ▪ Data processing :
 
@@ -31,50 +32,60 @@ Pair programming realized by: [Judith M.Blanco](https://www.linkedin.com/in/judi
       seaborn as sns
 
    
+   
 
-
+----
  EDA - Exploratory Data Anlayisis
------------
+-----
 
    *  [Folder EDA](https://github.com/Jumblan/DA_promoC_modulo2_sprint3_JudithLola/tree/main/EDA)
    
-        ▪ EDA.1 | Initialize exloratory Data Analysis
+            ▪ EDA.1 | Initialize exloratory Data Analysis
         
-        ▪ EDA.2 | Identify NaN, Null or lost values and Outliers. 
+            ▪ EDA.2 | Identify NaN, Null or lost values and Outliers. 
         
-        ▪ EDA.3 | Representation  
+            ▪ EDA.3 | Representation  
 
 
+
+---
  CLEAN
-----------------
+----
+
+   *  [Folder CLEAN](https://github.com/Jumblan/DA_promoC_modulo2_sprint3_JudithLola/tree/main/limpieza)
+
 
            ▪ Clean.1 | Delete duplicated, redundant columns and change type of date (str, category, int, float)
    
-           ▪ Clean.1 | Delete duplicated, redundant columns and change type of date (str, category, int, float)
+           ▪ Clean.2 | Str. Creation intervals, percents and rates with map, apply and applymap
     
-           ▪ Clean.2 | Created intervals, percents and rates with apply, map and applymap
+           ▪ Clean.3 | Created intervals, percents and rates with apply, map and applymap
            
-           ▪ Clean.3 | Detection, delete and replacement Outliers
+           ▪ Clean.4 | Detection, delete and replacement Outliers
 
-           ▪ Clean.4 | Outliers: replacement by media or median.
+           ▪ Clean.5 | Outliers: replacement by media or median.
            
-           ▪ Clean.5 | Analysis and recognise methods Sklearn libra
+           ▪ Clean.6 | Analysis and recognise methods Sklearn library.
+           
 
+-----
 ETL
-----
+------
+
+   *  [Folder ETL](https://github.com/Jumblan/DA_promoC_modulo2_sprint3_JudithLola/tree/main/ETL)
 
 
- - ETL I: Extracción- API's
+            ▪ ETL 1: Extraction- API's
 
- - ETL II : Transformación I - Limpieza y enriquecimiento de los datos 
+            ▪ ETL 2 : Transformation I - Cleaning the dates.
 
- - ETL III: Transformación II - Construccion de clases y funciones de limpieza
+            ▪ ETL 3: Transformación II - Constuction of class and cleaning function
 
- - ETL IV: Carga I - Creación de BBDD e inserción de datos en las mismas
+            ▪ ETL 4: Charge I - BBDD creation and insertion od dates.
 
- - ETL V: Carga II - Construccion de clases, funciones BBDD e inserción
+            ▪ ETL 5: Charge II - Construction of class, function and BBDD
 
- - ETL VI: Transformación II - Ejecutable - Pipeline ETL
+            ▪ ETL 6: Transformation II - Ejecutable - Pipeline ETL
 
 
 
