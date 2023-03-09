@@ -1,46 +1,68 @@
-# DA_promoc_modulo2_sprint2_JudithyLola
 
 
+Pair programming realized by: [Judith M.Blanco](https://www.linkedin.com/in/judith-m-blanco/) y [Lola Rubio]  
 
 
-TEMARIO EDA 
+--------------------------
+# EDA / ETL / CLEANING 
+--------------------------
+
+***Use of libraries fot the Exploratory Data Anlayisis (EDA) and Extract, Transform, Load (ETL)***
+
+---
+
+**Libraries** 
+
+    ▪ Data processing :
+
+      numpy 
+      pandas 
+      requests
+      mysql.connector
+      warnings
+      warnings.filterwarnings('ignore')
+      InteractiveShell.ast_node_interactivity = "all" 
+      IPython.core.interactiveshell import InteractiveShell
+       
+
+    ▪ Graphical Representation:
+
+      matplotlib.pyplot as plt
+      seaborn as sns
+
+   
+
+
+ EDA - Exploratory Data Anlayisis
 -----------
-El análisis exploratorio de datos (EDA) es utilizado por los analistas de datos para analizar e investigar conjuntos de datos 
-y resumir sus principales características, empleando a menudo métodos de visualización de datos.
 
- - EDA I: Introducción: Aproximacion al analisis exploratorio
-
- - EDA II: Identificacion de Valores Nulos o valores perdidos y Outliers valores extremos
-
- - EDA III: Analisis exploratorio graficos mediante la visualizacion 
-
-
+   *  [Folder EDA](https://github.com/Jumblan/DA_promoC_modulo2_sprint3_JudithLola/tree/main/EDA)
+   
+        ▪ EDA.1 | Initialize exloratory Data Analysis
+        
+        ▪ EDA.2 | Identify NaN, Null or lost values and Outliers. 
+        
+        ▪ EDA.3 | Representation  
 
 
-
-
-
-TEMARIO LIMPIEZA
+ CLEAN
 ----------------
 
- - Limpieza I: Eliminacion de duplicados, renombrar y/o eliminar columnas redundantes, cambiar el tipo de datos de las columnas.
+           ▪ Clean.1 | Delete duplicated, redundant columns and change type of date (str, category, int, float)
+   
+           ▪ Clean.1 | Delete duplicated, redundant columns and change type of date (str, category, int, float)
+    
+           ▪ Clean.2 | Created intervals, percents and rates with apply, map and applymap
+           
+           ▪ Clean.3 | Detection, delete and replacement Outliers
 
- - Limpieza II: Strings: Creacion de intervalos, porcentajes, y ratios con apply, map y applymap
-
- - Limpieza III: Deteccion, eliminacion y reemplazo de Valores extremos/Outliers
-
- - Limpieza IV:  Aplicamos los principales prodcedimientos para imputar los valores nulos: sustitucion por la media o por la constante.
-
- - Limpieza V: Analizar y reconocer los diferentes metodos de la libreia Sklearn para tratar los valores nulos.
-
-
-
-
-
+           ▪ Clean.4 | Outliers: replacement by media or median.
+           
+           ▪ Clean.5 | Analysis and recognise methods Sklearn libra
 
 ETL
 ----
-Extract, Load and Transform para el procesado de datos 
+
 
  - ETL I: Extracción- API's
 
